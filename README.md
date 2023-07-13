@@ -1,3 +1,3 @@
 ### ALIASES FOR TERMINAL 
 
-This are aliases for been more productive on laravel and git
+This are aliases for been more productive with laravel, docker and git
